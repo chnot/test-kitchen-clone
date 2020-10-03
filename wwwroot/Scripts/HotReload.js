@@ -1,0 +1,1 @@
+window.Blazor.defaultReconnectionHandler._reconnectCallback = function (d) { document.location.reload(); }
